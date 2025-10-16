@@ -1,11 +1,11 @@
 
 ## Google Drive Link :
-https://drive.google.com/drive/folders/1UefBwJXkW9tlW0L-9ClJipqgbMOScyDC?usp=drive_link
+https://drive.google.com/drive/folders/1UefBwJXkW9tlW0L-9ClJipqgbMOScyDC?usp=sharing
 
 
 ## 🎥 Project Demo Video
 
-[▶️ Watch the Demo Video on Google Drive] https://drive.google.com/file/d/1X9M_hxjtV2Ea_vSwSEsiWgvoVjceiVI0/view?usp=drive_link
+https://drive.google.com/file/d/1X9M_hxjtV2Ea_vSwSEsiWgvoVjceiVI0/view?usp=sharing
 
 # Conversation Agent 🚀
 
