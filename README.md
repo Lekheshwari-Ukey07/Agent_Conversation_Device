@@ -76,6 +76,4 @@ Clean, modular code architecture with extensibility for future tools
 
 ## 📌 Connect With Me
 
-GitHub: YourGitHubUsername
-
-LinkedIn: YourLinkedInProfile
+Linkedin : https://www.linkedin.com/in/lekheshwari-ukey-data-scientist/
